@@ -126,7 +126,7 @@ def convert(filename) :
                         
                         math_line = makeURLCode(math_line)
                         #new_line += "![](https://latex.codecogs.com/svg.latex?" + math_line + ")"
-                        new_line += "<p style=\"text-align:center;\"><img src=\"https://latex.codecogs.com/gif.latex?" + math_line + "\"></p>"
+                        new_line += "<p align=\"center\"><img src=\"https://latex.codecogs.com/gif.latex?" + math_line + "\"></p>"
                         math_line = ""
                         new_line += ch
 

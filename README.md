@@ -24,10 +24,10 @@ Parameter : $x$
 
 - in .md file
 ```markdown
-$ <p style="text-align:center;"><img src="https://latex.codecogs.com/gif.latex?f(x)=2x+3"></p>
+$ <p align ="center"><img src="https://latex.codecogs.com/gif.latex?f(x)=2x+3"></p>
 Parameter : <img src="https://latex.codecogs.com/gif.latex?x">
 ```
 
-<p style="text-align:center;"><img src="https://latex.codecogs.com/gif.latex?f(x)=2x+3"></p>
+<p align ="center"><img src="https://latex.codecogs.com/gif.latex?f(x)=2x+3"></p>
 
 Parameter : <img src="https://latex.codecogs.com/gif.latex?x">
