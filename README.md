@@ -24,7 +24,7 @@ Parameter : $x$
 
 - in .md file
 ```markdown
-$ <img src="https://latex.codecogs.com/gif.latex?f(x)=2x+3">
+$ <p style="text-align:center;"><img src="https://latex.codecogs.com/gif.latex?f(x)=2x+3"></p>
 Parameter : <img src="https://latex.codecogs.com/gif.latex?x">
 ```
 
